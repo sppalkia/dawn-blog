@@ -1,14 +1,14 @@
 # Site settings
-title: Monochrome | A minimal, responsive Jekyll blog theme
-description: "A minimal, responsive, ready to use blog template, built with Jekyll."
+title: Stanford DAWN | The Stanford DAWN blog.
+description: "The Stanford DAWN blog."
 url: "http://www.dyutibarma.github.io/monochrome"
 author:
-  name: "The Review Index"
-  email: "dyutibarma@gmail.com"
-  url: "https://thereviewindex.com"
+  name: "Shoumik Palkar"
+  email: "shoumik@cs.stanford.edu"
+  url: "http://dawn.cs.stanford.edu"
 
 # Build settings
-baseurl: /monochrome # Change this to your relative path (ex: /blog/), or leave just a /
+baseurl: /blog # Change this to your relative path (ex: /blog/), or leave just a /
 markdown: kramdown
 source: .
 destination: ./_site
