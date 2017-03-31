@@ -157,6 +157,11 @@
   }
 }
 
+#header #dawn {
+    color: #333;
+    font-weight: 800;
+}
+
 /* Posts */
 
 #posts {
@@ -168,7 +173,7 @@
 #post-page {
   margin-bottom: 1.5em;
   @media (min-width: 940px) {
-      margin-bottom: 1.3334em;
+      margin-bottom: 1.5em;
     }
 }
 
@@ -190,8 +195,8 @@
   @media (min-width: 940px) {
     display: block;
     color: lighten($text-color, 25%);
-    line-height: 1.3334em; /* 24px/18px */
-    margin-bottom: 1.3334em; /* 24px/18px */
+    line-height: 1.5em; /* 24px/18px */
+    margin-bottom: 1.5em; /* 24px/18px */
     font-weight: 200;
   }
 }
@@ -231,7 +236,7 @@ code {
   line-height: 1.5em; /* 24px/16px */
   padding-left: 1.5em;
   @media (min-width: 940px) {
-    line-height: 1.33334em; /* 24px/18px */
+    line-height: 1.5em; /* 24px/18px */
   }
 }
 
