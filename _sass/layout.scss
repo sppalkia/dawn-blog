@@ -48,7 +48,7 @@
     font-size: 2em;
     padding-left: 10px;
     color: $text-color;
-    font-weight: 300
+    font-weight: 300;
   }
 }
 
@@ -59,7 +59,7 @@
   content: '';
   width: 5rem;
   height: 1px;
-  margin: 23px auto;
+  margin: 5px auto;
   background-color: $text-color;
 }
 
@@ -182,7 +182,7 @@
     content: '';
     width: 5rem;
     height: 1px;
-    margin: 23px auto;
+    margin: 5px auto;
     background-color: $stanford-color;
   }
 
@@ -226,6 +226,7 @@ img[title="Monochrome"] {
   }
 
 code {
+  font-size: 12px;
   color: #333;
   background-color: $code-bg-color;
 }

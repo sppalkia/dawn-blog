@@ -33,9 +33,9 @@ $stanford-color: #820000;
 
 html {
 	background-color: $background-color;
-	font-size: 16px;
+	font-size: 14px;
 	@media (min-width: 940px) {
-		font-size: 18px;
+		font-size: 14px;
 	}
 	line-height: 1.5;
 	color: $text-color;
@@ -52,10 +52,10 @@ a {
     color: $stanford-color;
 
 	text-decoration: none;
-	font-weight: 700;
 	&:hover,
 	&:focus {
 		color: darken($text-color, 5%);
+        text-decoration: underline;
 	}
 }
 
