@@ -30,7 +30,7 @@ of machines operating in production: ML technology clearly has tremendous potent
 ML-powered systems remain far too expensive to build for most application domains.
 
 To address this potential, our group at Stanford is beginning a new, five-year research project to
-design systems infrastructure and tools for \textit{usable machine learning}, called DAWN (Data
+design systems infrastructure and tools for _usable machine learning_, called DAWN (Data
 Analytics for What’s Next). Our goal is _not_ to improve ML algorithms, which are almost always “good
 enough” for many important applications, but instead to make ML _usable_ so that small teams of non-ML
 experts can apply ML to their problems, achieve high-quality results, and deploy production systems
