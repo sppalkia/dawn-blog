@@ -60,8 +60,7 @@ far less effort to build a data management application, and many run thousands o
 
 With history as a guide, our key observation is that most of the effort in industrial ML
 applications is _not_ spent in devising new learning algorithms or models but is instead spent in
-three other areas: _data preparation_, _feature selection_, and _productionization_ (cf.
-~\cite{ml-credit-card}). Data preparation means acquiring, producing and cleaning enough training
+three other areas: _data preparation_, _feature selection_, and _productionization_[^1]. Data preparation means acquiring, producing and cleaning enough training
 data to feed into an ML algorithm: without this quality data, ML algorithms fall flat. Feature
 selection means identifying the data characteristics and behaviors of interest: what aspects of data
 are most important, and what would a domain expert implicitly or explicitly say about a given data
@@ -76,3 +75,7 @@ community—and, based on our prior work in this area, we see substantial opport
 reduce the effort for these tasks.
 
 Stay tuned.
+
+**References**
+
+[^1]: See [Hidden Technical Debt in Machine Learning Systems](https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf) from NIPS 2015.
