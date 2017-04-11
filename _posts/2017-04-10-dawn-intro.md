@@ -2,7 +2,7 @@
 layout: post
 title: DAWN of a New Era
 comments: true
-author: Peter Bailis, Chris Ré, Matei Zaharia, and Kunle Olukotun
+author: Peter Bailis, Kunle Olukotun, Chris Ré, and Matei Zaharia
 ---
 
 We are in the golden age of machine learning and artificial intelligence. Sustained algorithmic
