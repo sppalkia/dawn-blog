@@ -3,7 +3,7 @@ layout: post
 title: DAWN of a New Era
 comments: true
 author: Peter Bailis, Chris Ré, Matei Zaharia, and Kunle Olukotun
---
+---
 
 We are in the golden age of machine learning and artificial intelligence. Sustained algorithmic
 advances coupled with the availability of massive datasets and fast parallel computing have led to
